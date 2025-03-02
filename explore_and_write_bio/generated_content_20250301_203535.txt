@@ -1,0 +1,13 @@
+**Professional Bio: Rudy**
+
+Rudy is an accomplished computer science student in the final year of a rigorous program at the University of Toronto, where he maintains an impressive CGPA of 3.91 out of 4.00. Specializing in artificial intelligence, mathematics, and statistics, Rudy is deeply committed to the intersection of AI and software engineering, focusing on developing scalable systems that deliver tangible value to users.
+
+Currently, Rudy is honing his skills as a Software Engineering Intern at Intact Financial Corporation. His work involves engineering dependency visualization systems using Clojure/Angular, automating OpenShift cluster management, and optimizing release cycles. In addition to his internship, Rudy is actively building and contributing to the AI/ML ecosystem as an entrepreneur with Shopify Builder Sundays.
+
+Rudy's academic and professional journey is marked by significant achievements. He has published research on particle swarm optimization for feature selection in classification models and has previously worked on logical query answering over knowledge graphs using large language models (LLMs) at the Computational Social Sciences Lab under Professor Ashton Anderson. His efforts in developing ontology-guided entity extraction systems at the Urban Data Center and working on autocolorization of black and white images at UTMIST underscore his passion for innovation.
+
+Rudy has also led impactful projects, such as reducing dashboard cloning times by 93.6% for UNICEF across over 100 offices and co-founding an ed-tech startup as part of the UofT Hatchery NEST program. His technical expertise extends to full-stack development, having built platforms for Hack the 6ix and automated testing processes during his tenure at EnrichAI.
+
+Outside of his technical endeavors, Rudy is an avid rock climber and hip-hop enthusiast, often sharing insights into his life as a university student through YouTube videos. His diverse interests and dedication to innovation make him a dynamic contributor to the fields of AI and software engineering.
+
+For more about Rudy's projects and to connect, visit his portfolio at [Rudy's Portfolio](https://whyismynamerudy-techv3-ai-optimized.vercel.app/).

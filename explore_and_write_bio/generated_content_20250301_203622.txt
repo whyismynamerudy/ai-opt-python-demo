@@ -1,0 +1,11 @@
+Rudy is a dynamic computer science student at the University of Toronto, where he is completing his final year with an impressive CGPA of 3.91/4.00. His academic focus lies at the intersection of artificial intelligence, mathematics, and statistics, reflecting his passion for machine learning, artificial intelligence, and innovative software engineering.
+
+Currently, Rudy is gaining hands-on experience as a Software Engineering Intern at Intact Financial Corporation. In this role, he is involved in engineering dependency visualization systems using Clojure/Angular, automating OpenShift cluster management, and streamlining release cycles. Additionally, Rudy is expanding his entrepreneurial skills by contributing to the AI/ML ecosystem through Shopify's Builder Sundays.
+
+Rudy's previous experiences include researching logical query answering over knowledge graphs using large language models at the Computational Social Sciences Lab under Professor Ashton Anderson. He also developed ontology-guided entity extraction systems at the Urban Data Center and worked on auto-colorization of black and white images at UTMIST, leveraging the "Colorful Image Colorization" technique by Richard Zhang et al.
+
+As a co-founder and former CTO of an ed-tech startup in the UofT HatcheryNest program, Rudy honed his leadership and technical skills. He has also led the development of an open-source dashboard cloning system for UNICEF, significantly reducing clone times across multiple offices.
+
+Rudy's technical toolkit includes a range of languages, frameworks, and databases. He has developed several notable projects, such as "Pitch Please," an AI-powered pitch feedback system, and "UnsearchableTO," which uses AI to make Toronto searchable by over half a million objects.
+
+Outside of his technical pursuits, Rudy enjoys rock climbing, hip-hop, and working out. He often creates YouTube content about his experiences as a university student. Rudy welcomes connections via email or LinkedIn, where he is eager to engage with like-minded individuals passionate about technology and innovation.

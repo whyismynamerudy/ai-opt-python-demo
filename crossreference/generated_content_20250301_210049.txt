@@ -1,0 +1,25 @@
+Based on the information provided from Rudy's portfolio website, we can derive a ranking of his preference and proficiency in various programming languages. This ranking is based on his work experience, projects, and the focus areas described in his portfolio. Here is the analysis:
+
+### 1. **Python**
+**Reasoning**: Rudy has developed several AI and machine learning projects, such as the "Shakespearean GPT" where he implemented the Transformer architecture from scratch using PyTorch, a Python-based library. Additionally, his work on logical query answering using LLMs and ontology-guided entity extraction systems suggests a strong proficiency in Python, which is widely used in AI/ML.
+
+### 2. **JavaScript/TypeScript**
+**Reasoning**: His experience with web development projects like the "Claude Folder Upload Helper," a Chrome extension, and work on full-stack development at Hack the 6ix as well as the use of Angular for dependency visualization systems, indicates a significant preference for JavaScript/TypeScript.
+
+### 3. **Clojure**
+**Reasoning**: Rudy’s current role involves engineering systems in Clojure, reflecting both proficiency and preference. This suggests he has developed a solid understanding and expertise in Clojure, especially in the context of scalable software systems.
+
+### 4. **C++**
+**Reasoning**: Although not explicitly mentioned in the projects or current work, Rudy’s background in computer science and statistics may involve C++, a common language in these disciplines. His interest in scalable and efficient software systems could imply a working knowledge of C++.
+
+### 5. **SQL**
+**Reasoning**: While not directly highlighted, Rudy's involvement in data-centric projects like "AI Collaborative Data Analysis" and "Verify," which analyze large datasets, suggests a proficiency in SQL for database management and data extraction.
+
+### 6. **Java**
+**Reasoning**: Java is often used in enterprise environments and could be part of his skill set due to its prevalence in computer science education. However, there is no direct mention of Java in his projects or work experience, placing it lower on the list.
+
+### 7. **R**
+**Reasoning**: Given Rudy's academic focus on statistics, it is likely he has some proficiency in R, a language commonly used for statistical analysis. However, the portfolio emphasizes AI and machine learning applications more, which typically leverage Python.
+
+### Conclusion
+Rudy's portfolio demonstrates a clear preference and proficiency in Python and JavaScript/TypeScript due to his involvement in AI/ML and web development projects. His current work with Clojure also indicates a strong capability with this language. The presence of other languages like C++, SQL, Java, and R suggests a well-rounded skill set, albeit with less emphasis compared to the top three languages. This ranking reflects both his educational background and professional experiences as detailed in his portfolio.

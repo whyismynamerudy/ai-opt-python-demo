@@ -1,0 +1,27 @@
+{
+  "start_time": 1740879092.792892,
+  "end_time": 1740879101.180953,
+  "total_duration": 8.388061046600342,
+  "steps_taken": 0,
+  "api_calls": 1,
+  "total_tokens": {
+    "prompt": 4591,
+    "completion": 201,
+    "total": 4792
+  },
+  "retries": 0,
+  "errors": [],
+  "success": true,
+  "has_ai_optimizer": true,
+  "page_load_time": 0.5020699501037598,
+  "detection_time": 0.04573798179626465,
+  "interactive_elements_count": 49,
+  "actions_performed": [],
+  "interaction_mode": "direct",
+  "is_content_generation": false,
+  "task": "find all of this person's social media links and list which platforms he is active on",
+  "url": "https://whyismynamerudy-techv3-ai-optimized.vercel.app/",
+  "result": "Rudy is active on LinkedIn, GitHub, Twitter, Medium, YouTube, and Spotify.",
+  "collected_content": "",
+  "generated_content": null
+}

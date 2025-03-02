@@ -1,0 +1,57 @@
+Based on the content collected from Rudy's portfolio website, here is a list of keywords that represent Rudy's professional brand:
+
+1. **Computer Science**  
+2. **Mathematics**  
+3. **Statistics**  
+4. **Software Engineering**  
+5. **Machine Learning**  
+6. **Artificial Intelligence**  
+7. **Innovation**  
+8. **Scalable Software**  
+9. **Secure Software**  
+10. **AI/ML Ecosystem**  
+11. **Entrepreneurship**  
+12. **University of Toronto (UofT)**  
+13. **Software Engineering Intern**  
+14. **Clojure**  
+15. **Angular**  
+16. **OpenShift Cluster Management**  
+17. **Intact Financial Corporation**  
+18. **Shopify**  
+19. **Knowledge Graphs**  
+20. **LLMs (Large Language Models)**  
+21. **Computational Social Sciences**  
+22. **Ontology-Guided Entity Extraction**  
+23. **Urban Data Center**  
+24. **Image Colorization**  
+25. **UNICEF**  
+26. **Open-Source Development**  
+27. **Ed-Tech Startup**  
+28. **Full Stack Developer**  
+29. **Hack the 6ix**  
+30. **EnrichAI**  
+31. **Particle Swarm Optimization**  
+32. **Classification Models**  
+33. **Pitch Please**  
+34. **Claude Folder Upload Helper**  
+35. **AI Collaborative Data Analysis**  
+36. **YouTube Ad Reaction Timer**  
+37. **Browser Fingerprinting**  
+38. **UnsearchableTO**  
+39. **Verify**  
+40. **Voyager**  
+41. **RAG Performance Analyzer**  
+42. **Life Simulation**  
+43. **Shakespearean GPT**  
+44. **LipNet**  
+45. **ShiftyTech**  
+46. **Spotify MultiSelect**  
+47. **PortAudio**  
+48. **SoundSpace**  
+49. **Blue (UofT Dating App)**  
+50. **N:zyme**  
+51. **Planck**  
+52. **Hip-Hop**  
+53. **YouTube Content Creator**  
+
+These keywords reflect Rudy's expertise, interests, and accomplishments as a student, software engineer, and entrepreneur.

@@ -1,0 +1,13 @@
+**Rudy's Professional Bio**
+
+Rudy is a dedicated and innovative computer science student at the University of Toronto, currently in the final year of his studies with a commendable CGPA of 3.91/4.00. His academic focus encompasses artificial intelligence, mathematics, and statistics, where he passionately explores the intersection of AI and software engineering. Rudy is committed to developing impactful, scalable, and secure software systems that deliver tangible value to users.
+
+Professionally, Rudy is gaining hands-on experience as a software engineering intern at Intact Financial Corporation. In this role, he is engineering dependency visualization systems using Clojure and Angular, automating OpenShift cluster management, and streamlining release cycles. Additionally, Rudy is actively contributing to the AI/ML ecosystem through his entrepreneurial endeavors with Shopify Builder Sundays.
+
+Rudy's previous experiences include conducting research on logical query answering over knowledge graphs using large language models at the Computational Social Sciences Lab under Professor Ashton Anderson. He also developed ontology-guided entity extraction systems at the Urban Data Center and worked on the autocolorization of black-and-white images at UTMIST, enhancing the "Colorful Image Colorization" project by Richard Zhang et al.
+
+As a co-founder and former CTO of an ed-tech startup in the UofT Hatchery Nest program, Rudy has demonstrated his entrepreneurial spirit and leadership abilities. He has also led the development of an open-source dashboard cloning system at UNICEF, significantly reducing clone times across multiple offices. His other notable projects include building a website and developer platform as a full-stack developer at Hack the 6ix and automating testing processes as a software engineering intern at EnrichAI. Furthermore, Rudy has published research on particle swarm optimization for feature selection in classification models.
+
+Rudy's technical expertise spans a wide range of tools and languages, and his portfolio includes various innovative projects, such as an AI-powered pitch feedback system, a Chrome extension for folder uploads, and a collaborative AI data analysis system. Outside of his technical pursuits, Rudy enjoys rock climbing, hip-hop, and maintaining an active lifestyle. He frequently shares insights into his university experience through engaging YouTube videos.
+
+Rudy is eager to connect with like-minded professionals and welcomes opportunities for collaboration. Feel free to reach out to him via email or LinkedIn for further engagement.

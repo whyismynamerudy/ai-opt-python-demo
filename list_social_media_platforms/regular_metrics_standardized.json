@@ -1,0 +1,27 @@
+{
+  "start_time": 1740879101.66128,
+  "end_time": 1740879112.5745559,
+  "total_duration": 10.913275957107544,
+  "steps_taken": 0,
+  "api_calls": 1,
+  "total_tokens": {
+    "prompt": 4032,
+    "completion": 316,
+    "total": 4348
+  },
+  "retries": 0,
+  "errors": [],
+  "success": true,
+  "has_ai_optimizer": false,
+  "page_load_time": 0.42099499702453613,
+  "detection_time": 0.03238391876220703,
+  "interactive_elements_count": 49,
+  "actions_performed": [],
+  "interaction_mode": "direct",
+  "is_content_generation": false,
+  "task": "find all of this person's social media links and list which platforms he is active on",
+  "url": "https://www.whyismynamerudy.tech/",
+  "result": "Rudy is active on LinkedIn, GitHub, Twitter, Medium, YouTube, and Spotify.",
+  "collected_content": "",
+  "generated_content": null
+}
